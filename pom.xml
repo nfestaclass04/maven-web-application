@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.220.101.124:8081/repository/capOne-ci-snapshot/</url>
+	      <url>http://34.220.101.124:8081/repository/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
