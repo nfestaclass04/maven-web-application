@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-app</finalName>
+		<finalName>range-app</finalName>
 		
 		<plugins>
 			<plugin>
