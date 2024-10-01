@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.84.197.254:8081/repository/toyota-snapshot/</url>
+	      <url>http://34.201.93.192:8081/repository/toyota-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
