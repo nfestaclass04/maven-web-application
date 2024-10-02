@@ -20,7 +20,7 @@
 		  ---We just tested our pipeline----Hope you enjoy your stay in here.----
                    -- you are watching this from our Tomcat web app containers--
 	</h4>
-       <h1>We are testing our Githu-webhook jenkins intergration</h1>
+       <h1>We are testing our Github-webhook jenkins intergration</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
