@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Nfesta Technologies Snapshot Nexus Repository </name>
-	      <url>http://100.26.55.240:8081/repository/tesla-snapshot/</url>
+	      <url>http://98.81.151.229:8081/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
