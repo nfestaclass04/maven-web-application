@@ -17,6 +17,7 @@ node{
     stage('5DeploymentToUat'){
         deploy adapters: [tomcat9(credentialsId: 'jenkins-tomcat-creds', path: '', url: 'http://44.200.61.112:8080/')], contextPath: null, war: 'target/*war'
     }
+    /*
     stage('6Approval'){
         timeout(time:11, unit:'HOURS'){
             input message: 'Application is now ready for deployment to production. Please, review and provide your Approval'
@@ -25,6 +26,7 @@ node{
     stage('7DeploymentToProd'){
         deploy adapters: [tomcat9(credentialsId: 'jenkins-tomcat-creds', path: '', url: 'http://18.215.33.59:8080/')], contextPath: null, war: 'target/*war'
     }
+    */
     stage('8Notifications'){
         emailext body: '''This would be the final status report on pipeline builds.
 
