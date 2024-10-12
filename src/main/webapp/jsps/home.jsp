@@ -14,6 +14,7 @@
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 	      <h2>We are Developing and supporting toyota mobile application.</h2>
+              <h2>We are ... troubleshooting and fixing a bug.</h2>
               <h2>We have completed Toyota E2E containerized Project. We hope you can now conplete a self coached HandsOn</h2>
 	<h4>
 		You are watching this from our end-to-end Jenkins deployment into our toyota application servers.
